@@ -3,9 +3,25 @@
   Chapter 2
   Programming Assignment
 
-  Author:
-  Date:
-  Filename:
+  Author: Leslie Khattarchebli
+  Date: 6/29/2025
+  Filename: Chapter 2 assignment
 */
 
 /* Add your CSS styles here */
+
+form {
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  background: #f2e3fd;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: sans-serif;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
