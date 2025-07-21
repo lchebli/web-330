@@ -3,9 +3,37 @@
   Chapter 4
   Programming Assignment
 
-  Author:
-  Date:
-  Filename:
+  Author: Leslie Khattarchebli
+  Date: 7/20/25
+  Filename: styles.css
 */
 
 /* Add your styles here */
+
+body {
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  padding: 20px;
+}
+
+#movieForm {
+  margin-bottom: 20px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 5px 0;
+}
+
+#movieDetails {
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+#movieDetails h2 {
+  margin-top: 0;
+  color: #0077cc;
+}
